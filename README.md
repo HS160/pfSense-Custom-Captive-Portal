@@ -62,4 +62,4 @@ This project is licensed under the GNU General Public License v3. See the [LICEN
 
 ## Support
 
-If you encounter any issues or have questions, feel free to reach out via Instagram: [@xdyogesh](https://www.instagram.com/xdyogesh).
+If you encounter any issues or have questions, feel free to reach out via Instagram: [@hs160].
